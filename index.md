@@ -1,3 +1,5 @@
+[Students' Project](./another-page.html).
+
 ---
 layout: default
 ---
