@@ -1,7 +1,7 @@
 title: datasciencespo
 logo: /assets/img/algorithmtoliveby.jpg
 description: Data Science for Public Policy Website
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
